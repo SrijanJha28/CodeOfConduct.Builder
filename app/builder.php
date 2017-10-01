@@ -49,6 +49,7 @@ include("header.php");
                 <option value="docx">.docx (Word)</option>
                 <option value="odt">.odt (Open Office)</option>
                 <option value="html">.html (Web Page)</option>
+                <option value="pdf">.pdf (file)</option>
             </select>
             <input type="hidden" id="id" name="id" value="0000000"> 
         </form>
